@@ -1,0 +1,3 @@
+c:\C++ OOPS Concept>   g++ "Default Constructor.cpp" -o output.exe
+
+c:\C++ OOPS Concept>.\output.exe
